@@ -2,21 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-11T16:22:24.818259Z",
+      "created": "2022-07-11T16:59:45.839424Z",
       "format": null,
-      "last_modified": "2022-07-11T16:21:23.201271Z",
+      "last_modified": "2022-07-11T16:58:27.935409Z",
       "mimetype": null,
       "name": "01_bike_counts.ipynb",
       "path": "01_bike_counts.ipynb",
-      "size": 9376,
+      "size": 9150,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-07-11T16:22:24.818259Z",
+      "created": "2022-07-11T16:59:45.839424Z",
       "format": null,
-      "last_modified": "2022-07-11T16:22:23.334233Z",
+      "last_modified": "2022-07-11T16:59:43.595426Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-11T16:22:24.818259Z",
+  "created": "2022-07-11T16:59:45.839424Z",
   "format": "json",
-  "last_modified": "2022-07-11T16:22:24.818259Z",
+  "last_modified": "2022-07-11T16:59:45.839424Z",
   "mimetype": null,
   "name": "",
   "path": "",
