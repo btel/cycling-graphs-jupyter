@@ -2,32 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-11T16:59:45.839424Z",
+      "created": "2022-09-28T07:12:32.827759Z",
       "format": null,
-      "last_modified": "2022-07-11T16:58:27.935409Z",
+      "last_modified": "2022-09-28T07:12:31.099750Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 540,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-09-28T07:12:32.827759Z",
+      "format": null,
+      "last_modified": "2022-09-28T07:11:37.055484Z",
       "mimetype": null,
       "name": "01_bike_counts.ipynb",
       "path": "01_bike_counts.ipynb",
       "size": 9150,
       "type": "notebook",
       "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-11T16:59:45.839424Z",
-      "format": null,
-      "last_modified": "2022-07-11T16:59:43.595426Z",
-      "mimetype": "text/markdown",
-      "name": "README.md",
-      "path": "README.md",
-      "size": 953,
-      "type": "file",
-      "writable": true
     }
   ],
-  "created": "2022-07-11T16:59:45.839424Z",
+  "created": "2022-09-28T07:12:32.827759Z",
   "format": "json",
-  "last_modified": "2022-07-11T16:59:45.839424Z",
+  "last_modified": "2022-09-28T07:12:32.827759Z",
   "mimetype": null,
   "name": "",
   "path": "",
